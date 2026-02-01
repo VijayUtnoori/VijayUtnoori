@@ -4,7 +4,7 @@
 
 Email Me 👉 ✉️vijayutnoori254@gmail.com For Collaboration/Project or Anything Else.
 
-🔭 I’m currently working on: Sentiment Analysis System Project
+🔭 I’m currently working on: Sentiment Analysis System Project(NLP)
 
 🌱 I’m currently learning: AI/Machine Learning , Deep Learning , Flask
 
