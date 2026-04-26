@@ -6,7 +6,7 @@ Email Me 👉 ✉️vijayutnoori254@gmail.com For Collaboration/Project or Anyth
 
 🔭 I’m currently working on: Smart Reviews Analysis System Project(NLP),Railway Ticket Confirmation Prediction
 
-🌱 I’m currently learning: AI/Machine Learning , Deep Learning , Flask
+🌱 I’m currently learning: Python Libraries, AI/Machine Learning , Deep Learning , Flask
 
 📚 Fun Fact: Student Today , Engineer Tomorrow.
 
